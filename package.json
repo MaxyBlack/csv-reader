@@ -1,0 +1,8 @@
+{
+  "name": "csv-reader",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.5.2",
+    "csv-parser": "^1.9.3",
+  }
+}
